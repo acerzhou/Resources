@@ -1,7 +1,12 @@
 # Resources
 Resources repo holds some resources I collected through years
 
+[Software Engineering](./Software%20Engineering.md)
+
+[Tools](./Tools.md)
+
 ## English
+
 Rand in Response - https://randsinrepose.com \
 Hacker News - https://news.ycombinator.com/ \
 Berkshire Hathaway - https://www.berkshirehathaway.com/
