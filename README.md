@@ -5,6 +5,8 @@ Resources repo holds some resources I collected through years
 
 [Tools](./Tools.md)
 
+[Others](./Others.md)
+
 ## English
 
 Rand in Response - https://randsinrepose.com \
